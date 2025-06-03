@@ -2,6 +2,7 @@
 Atualmente me dedicando ao estudo de desenvolvimento de jogos online, com foco em criar experiências interativas e conectadas para os jogadores.
 
 🚀 Sobre mim
+
 🌱 Estudando desenvolvimento web com Python, incluindo frameworks como Flask e Django.
 
 🧠 Interessada em lógica de jogos multiplayer (cliente e servidor).
