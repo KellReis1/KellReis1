@@ -23,7 +23,7 @@ Atualmente me dedicando ao estudo de desenvolvimento de jogos online, com foco e
       <img src="https://github-readme-stats.vercel.app/api?username=KellReis1&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellReis1&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellReis1&layout=compact&theme=radical&cache_seconds=0"" />
     </td>
   </tr>
 </table>
